@@ -15,7 +15,7 @@ public:
 	{
 		std::cout << "knife weaponed" << std::endl;
 		printf("DMG+5\n");
-	}
+	};;;;;;;;;;;;;;;;;;;;;
 };
 
 class sword : public weapon
